@@ -1,3 +1,5 @@
 env/
 .env
-*sqlites3
+
+# Database
+*.sqlite3
